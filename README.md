@@ -1,12 +1,12 @@
 Answers to question 2
 The significant features of React
 
-Easy creation of dynamic applications,JSX
-Components
-One-way Data Binding
-Virtual DOM
-Simplicity
-Performance
+Easy creation of dynamic applications,
+Components,
+One-way Data Binding,
+Virtual DOM,
+Simplicity,
+Performance.
 
 Answers to question 3
 The major advantages of React
@@ -18,6 +18,7 @@ It helps to build rich user interfaces,
 It allows writing custom components.
 
 Answer to question 4
+
 The name of the Software Engineer that created React is JORDAN WALKE
 
 Answers to question 5
